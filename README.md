@@ -1,1 +1,3 @@
-# Python script for training the Dual-branch neural network in the manuscript ``Full-depth Reconstruction of Long-Term Meridional Overturning Circulation Variability from Satellite-Measurable Quantities via Machine Learning''
+Python script for training the dual-branch neural network described in the manuscript 
+"Full-Depth Reconstruction of Long-Term Meridional Overturning Circulation Variability 
+from Satellite-Measurable Quantities via Machine Learning."
